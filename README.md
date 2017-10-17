@@ -16,6 +16,7 @@ To use the script you need to download AutoHotkey, you can download directly fro
 
 
 **Português**
+
 Para utilizar o script é necessário baixar o AutoHotkey, você pode baixar diretamente do site [https://autohotkey.com/](https://autohotkey.com).
 
 ### How activate? / Como Ativar?
