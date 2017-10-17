@@ -1,4 +1,4 @@
-# pubg-volume-control
+# PUBG AHK Volume Toggle
 Baseado no sistema de tampão de ouvidos do game Arma 3, este script foi feito para os jogadores de PUBG que odeiam o volume alto dos veiculos, red zone, etc. O script basicamente altera o volume da aplicação atual entre 50% e 100%, dessa maneira você continua podendo escutar os tiros, mas não fica surdo. Façam bom proveito.
 
 ### Requisitos
